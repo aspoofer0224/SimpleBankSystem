@@ -1,0 +1,3 @@
+HomeLoan,8500.000000000002,6,azim,2009,5000000,1000,28,jully,male,012,31
+CarLoan,500.0,2,Alvin,4200,300000,5000,24-2-2001,2424,Male,014-3206224,91,jalan koperasi 4,tamen perpaduan koperasi
+EducationLoan,24305.555555555555,3,AlexLamChoeSing,2001,5000000,4000,24-2-2001,0001,male,010-8100801,91,Jln OS
